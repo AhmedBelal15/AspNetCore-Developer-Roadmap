@@ -239,6 +239,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [GenFu](https://github.com/MisterJames/GenFu)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 
+20. Programming Notes for Professionals books(https://books.goalkicker.com/?fbclid=IwAR30SyDY9R6U1BsLGH97mYGhHVLWXQS3emwswWkeqGrTNLlfOXjR7RjQUVc)
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
